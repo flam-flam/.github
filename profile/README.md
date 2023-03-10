@@ -1,7 +1,7 @@
 # What is this place?
 
 It's a pet project that is aimed at creating a set of well observed microservices.
-Read more about it on [flam-flam.github.io](flam-flam.github.io).
+Read more about it on [flam-flam.github.io](flam-flam.github.io)
 
 [ WORK IN PROGRESS ]
 
