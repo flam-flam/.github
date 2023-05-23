@@ -1,6 +1,6 @@
 ---
 name: default
-description: Generic issue template
+about: Generic issue template
 ---
 <!-- Description here -->
 
