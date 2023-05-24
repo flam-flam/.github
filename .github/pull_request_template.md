@@ -14,6 +14,6 @@ Closes #
 - 
 
 ## Checklist
-- [] Correct version increment expected (`#patch`/`#minor`/`#major`)
-- [] Tests updated _(if applicable)_
-- [] Docs updated _(if applicable)_
+- [ ] Correct version increment expected (`#patch`/`#minor`/`#major`)
+- [ ] Tests updated _(if applicable)_
+- [ ] Docs updated _(if applicable)_
